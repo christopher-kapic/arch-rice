@@ -4,8 +4,11 @@ Used to install and update archlinux
 I have yet to write these scripts, but I'm actively getting into linux and I'd like to move into more "unixy" programs. Currently using KDE, when I reinstall I will be using these scripts. The readme currently is documenting what I would like the scripts to do, but the scripts still need to be written.
 
 archinstaller uses default settings that work for me (specifically for my ThinkPad T530).
+
 archinstaller does not partition the disk for you.
+
 archinstaller does create a user for you.
+
 archinstaller uses my .config directory.
 
 archinstaller instals the following programs:
