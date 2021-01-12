@@ -49,4 +49,4 @@ archupdate updates all of the programs on your system:
  
  Clone this repo: `git clone url`.
  
- Run the installation script: `./path/to/script'.
+ Run the installation script: `./path/to/script`.
