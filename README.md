@@ -29,6 +29,7 @@ archinstaller instals the following programs:
  - signal
  - pandoc (and a latex compiler)
  - python
+ - youtube-dl
 
 archinstaller asks about the following programs:
  - Slack
