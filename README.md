@@ -47,7 +47,7 @@ archupdate updates all of the programs on your system:
  # tutorial
  Partition your disk using `cfdisk`.
  
- Install git with `sudo pacman -S git`.
+ Install git with `pacman -Sy git`.
  
  Make sure you are in root's home directory: `cd`.
  
