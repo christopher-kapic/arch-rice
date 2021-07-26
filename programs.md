@@ -38,3 +38,9 @@
 
 #### Maybes
  - element (matrix)
+
+#### Need-to-figure-outs
+ - latex compiler
+ - document viewer (zathura?)
+ - media viewer (mpv?)
+ - feh vs nitrogen (?)
