@@ -134,7 +134,7 @@ To be honest, I am not sure what every one of these is for, but I tried installi
     
 Optionally...
 
-    pacman -S openssh
+    pacman -S openssh xclip zsh
 
 #### Install a boot loader
 
