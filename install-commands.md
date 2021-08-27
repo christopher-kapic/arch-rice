@@ -131,6 +131,10 @@ Edit `/etc/hosts`
 To be honest, I am not sure what every one of these is for, but I tried installing Arch without them and ran into problems.
 
     pacman -S networkmanager network-manager-applet dialog wireless_tools wpa_supplicant os-prober mtools dosfstools base-devel linux-headers
+    
+Optionally...
+
+    pacman -S openssh
 
 #### Install a boot loader
 
