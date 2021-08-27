@@ -36,7 +36,7 @@ If the directory exists, the computer boots with UEFI. If the directory does not
 
 #### Partition the drive
 
-There are several options for partitioning the drive. You may use whichever you prefer; I suggest `cfdisk` because it is a GUI.
+There are several options for partitioning the drive. You may use whichever you prefer; I suggest `cfdisk` because it is a GUI. ([Video reference](https://youtu.be/HpskN_jKyhc?t=774))
 
     cfdisk
 
