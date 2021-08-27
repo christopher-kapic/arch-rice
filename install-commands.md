@@ -41,3 +41,17 @@ There are several options for partitioning the drive. You may use whichever you 
     cfdisk
 
 The Arch Linux Installation Guide suggests using a root and a swap (> 512MiB) partition. If you are booting with UEFI, also create a boot partition.
+
+#### Mount the drive
+
+#### Install essential packages
+
+    pacstrap /mnt base linux linux-firmware
+
+#### Fstab
+
+    genfstab -U /mnt >> /mnt/etc/fstab
+
+#### Change root into the new system
+
+    arch-chroot /mnt
