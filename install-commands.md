@@ -134,7 +134,7 @@ To be honest, I am not sure what every one of these is for, but I tried installi
     
 Optionally...
 
-    pacman -S openssh xclip zsh python-pip
+    pacman -S openssh xclip zsh python-pip ufw
 
 #### Install a boot loader
 
